@@ -1,0 +1,102 @@
+body {
+    font-family: "Outifit, sans-serif";
+    background-color: #f5e3d8;
+    color: #4b2e2a;
+    margin: 0;
+    padding: 0;
+}
+
+.text {
+    max-width: 600px;
+    margin: 20px auto;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.recipe-image {
+    width: 100%;
+    border-radius: 10px;
+}
+
+h1 {
+    font-family: "Young Serif" , sans-serif;
+    width: 400px;
+    margin-top: 0;
+}
+
+.description {
+    font-size: 16px;
+    color: #666666;
+}
+
+.preparation-time {
+    background-color: #fce4ec;
+    padding: 10px;
+    border-radius: 5px;
+    }
+
+    .prep-time {
+        height: 100%;
+        width: auto;
+        background-color: hsl(330, 100%, 98%);
+        border-radius: 10px;
+        display: block;
+        padding: 10px 0px 10px 15px;
+    }
+.time-color{
+    color: hsl(332, 51%, 32%)
+} 
+
+h2 {
+    font-family: "Outifit"; 
+    color: #d84315;
+     padding-bottom: 5px;
+   }
+
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 5px;
+}
+
+ol {
+    padding-left: 20px;
+}
+
+ol li {
+    margin-bottom: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f5e3d8;
+}
+
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
